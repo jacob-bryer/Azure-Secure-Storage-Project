@@ -62,6 +62,7 @@ Project requirements included:
 
 # Project Structure
 
+
 ```text
 azure-secure-storage-project/
 
@@ -93,7 +94,23 @@ screenshots/
 ```
 
 ---
+# Project Documentation
 
+The project is fully documented with step-by-step implementation guides. Each document includes the project objective, configuration details, implementation steps, security considerations, business justification, screenshots, and key takeaways.
+
+| Step | Documentation |
+|------|---------------|
+| 1 | [Create an Azure Resource Group](documentation/01-resource-group.md) |
+| 2 | [Create an Azure Storage Account](documentation/02-storage-account.md) |
+| 3 | [Create a Private Azure Blob Container](documentation/03-blob-container.md) |
+| 4 | [Create a Microsoft Entra ID User](documentation/04-entra-id-user.md) |
+| 5 | [Create a Microsoft Entra ID Security Group](documentation/05-security-group.md) |
+| 6 | [Implement Azure RBAC](documentation/06-azure-rbac.md) |
+| 7 | [Review Azure Activity Logs](documentation/07-activity-log.md) |
+| 8 | [Review Storage Security Configuration](documentation/08-storage-security-review.md) |
+| 9 | [Solution Architecture Overview](documentation/09-architecture-overview.md) |
+
+---
 # Project Workflow
 
 1. Created an Azure Resource Group.
