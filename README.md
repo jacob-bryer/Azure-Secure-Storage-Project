@@ -1,11 +1,4 @@
-# Azure Secure Storage & Identity and Access Management (IAM) Project
-
-![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Microsoft-Entra%20ID-0078D4?style=for-the-badge)
-![RBAC](https://img.shields.io/badge/Azure-RBAC-blue?style=for-the-badge)
-![Security](https://img.shields.io/badge/Cloud-Security-success?style=for-the-badge)
-
----
+# Azure Secure Storage Project
 
 # Project Overview
 
@@ -94,8 +87,6 @@ screenshots/
 ├── 06-role-assignment.png
 ├── 07-activity-log.png
 ├── 08-storage-security-settings.png
-
-architecture/
 └── architecture-diagram.png
 ```
 
