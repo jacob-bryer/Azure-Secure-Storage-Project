@@ -63,11 +63,11 @@ Project requirements included:
 # Project Structure
 
 ```text
-azure-secure-storage-iam-project/
+azure-secure-storage-project/
 
 README.md
 
-docs/
+documentation/
 ├── 01-resource-group.md
 ├── 02-storage-account.md
 ├── 03-blob-container.md
@@ -82,11 +82,13 @@ screenshots/
 ├── 01-resource-group-created.png
 ├── 02-storage-account-created.png
 ├── 03-container-created.png
-├── 04-entra-user-created.png
-├── 05-security-group-created.png
-├── 06-role-assignment.png
-├── 07-activity-log.png
-├── 08-storage-security-settings.png
+├── 04-file-uploaded.png
+├── 05-entra-user-created.png
+├── 06-security-group-created.png
+├── 07-group-members.png
+├── 08-role-assignments.png
+├── 09-activity-log.png
+├── 10-storage-security-settings.png
 └── architecture-diagram.png
 ```
 
