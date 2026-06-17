@@ -36,9 +36,8 @@ Using a dedicated Resource Group provides several security and governance benefi
 
 ## Screenshot
 
-Insert the screenshot below.
+![Azure Storage Account](../screenshots/02-storage-account-created.png)
 
-`/screenshots/01-resource-group-created.png`
 
 ---
 
