@@ -35,7 +35,7 @@ Project requirements included:
 
 # Architecture
 
-![Architecture Diagram](screenshots/architecture-diagram (1).png)
+![Architecture Diagram](screenshots/architecture-diagram.png)
 
 ---
 
